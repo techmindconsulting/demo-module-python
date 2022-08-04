@@ -3,7 +3,7 @@
 ## Installation
 
 ```
- python -m venv env
+ python -m venv .env
 ```
 
 ```
