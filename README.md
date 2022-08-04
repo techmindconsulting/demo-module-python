@@ -1,5 +1,5 @@
 # demo-module-python
-`
+
 ## Installation
 
 ```
@@ -7,9 +7,9 @@
 ```
 
 ```
-.env/Scripts/activate
+source .env/Scripts/activate
 ```
 
 ```
 pip install -r requirements.txt
-``
+```
